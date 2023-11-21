@@ -1,0 +1,223 @@
+
+
+.container{
+    border: 2px solid black;
+    height: 97vh;
+    width: 40vw;
+    display: flex;
+    justify-content: space-between;
+   
+    
+}
+
+.firstsection img{
+ height: 55%;
+ width: 65%;
+ border-radius: 50%;
+ }
+
+.firstsection{
+    text-align: center;
+    line-height: 0.5px;
+    margin-top:15px;
+    margin-left: 15px;
+    padding: 10px;
+    height: 22%; 
+    width: 12vw;
+    background-color: rgba(23, 110, 202,0.9);
+}
+
+.firstsection p:nth-child(2){
+   color: #ffff;
+   font-size: x-large;
+
+   
+}
+
+.firstsection p:nth-child(3){
+    color: #ffff;
+    font-size: medium;
+}
+
+.firstsection p:nth-child(4){
+    color: #ffff;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.firstsection p a:nth-child(2){
+    color:#ffff;
+    text-decoration: none;
+}
+
+.firstsection p a:nth-child(3){
+    color: #ffff;
+    text-decoration: none;
+}
+
+.secondsection{
+    height: 69%; 
+    width: 12vw;
+    background-color: rgb(71, 63, 63);
+    margin-left: 15px;
+    padding: 10px;
+}
+
+.main1 h2{
+    color: #ffff;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.main1 ul{
+    color: #ffff;
+    padding-left: 10px; 
+    font-size: smaller; 
+    text-decoration: none;
+}
+
+
+.main1 ul li:nth-child(even){
+    color: rgb(177, 165, 165);
+}
+
+.main2 h2{
+    color: #ffff;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.main2 ul{
+    color: #ffff;
+    padding-left: 10px; 
+    font-size: smaller; 
+    line-height: 30px;
+}
+
+.main3 h2{
+    color: #ffff;
+    margin: auto;
+    margin-top: 20px;
+}
+.main3 ul{
+    color: #ffff;
+    padding-left: 10px; 
+    font-size: smaller; 
+    line-height: 20px;
+}
+
+
+
+
+.underline{
+    border-top: 2px solid white;
+    width: 85%;
+    padding-left: 10px;
+}
+
+.underline1{
+    background-color: #ffff;
+    width: 65%; 
+    
+    
+    
+}
+.underline2{
+    background-color:rgb(19, 128, 244);
+    width: 75%; 
+    height: 2px;
+    margin-top: 7px;
+    
+}
+
+.underline3{
+    background-color: rgb(19, 128, 244);
+    width: 60% ;
+    height: 2px;
+}
+
+
+.underline4{
+    
+    background-color: rgb(19, 128, 244);
+    width: 55% ;
+    height: 2px;
+}
+
+.underline5{
+    
+    background-color: rgb(19, 128, 244);
+    width: 35% ;
+    height: 2px;
+}
+.underline6{
+    
+    background-color: rgb(19, 128, 244);
+    width: 50% ;
+    height: 2px;
+}
+
+.underline7{
+    
+    background-color: rgb(19, 128, 244);
+    width: 80%;
+    height: 2px;
+}
+
+.rightbar{
+    width: 60%;
+    padding: 10px;
+}
+.rightbar h2{
+    color: rgb(19, 128, 244);
+    margin: auto;
+    margin-top: 10px;
+}
+
+.Runderline{
+   border-top: 2px solid black;
+   width: 85%;
+}
+.exp1{
+    display: flex;
+    justify-content: left;
+    column-gap: 12px;
+    font-weight: 600;
+    margin-bottom: -20px;
+}
+
+.main2 h3{
+    margin-left: 28px;
+    margin-top: 6px;
+    font-weight: 400;
+}
+
+.main2 h4{
+    margin-left: 28px;
+    margin-top: -10px;
+    color: rgb(117, 111, 111);
+    font-weight: 200;
+}
+.secondexp{
+    margin-top:-10px;
+    margin-bottom: -15px;
+}
+
+.lastsection h3{
+    margin-left: 28px;
+    margin-top: 6px;
+    font-weight: 400;
+    font-size: medium;
+}
+
+.lastsection h4{
+    margin-left: 28px;
+    margin-top: -10px;
+    color: rgb(117, 111, 111);
+    font-weight: 200; 
+}
+
+.project2{
+    margin-top: -15px;
+}
+
